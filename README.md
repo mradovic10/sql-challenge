@@ -3,7 +3,7 @@ Module 9 Challenge
 
 This repository contains an EmployeeSQL folder that includes:
 
-- a PNG file of the Entity Relationship Diagram titled "data_modeling_ERD". Here is the link of the same file on QuickDBD: https://app.quickdatabasediagrams.com/#/d/rnOLX6;
+- a PNG file of the Entity Relationship Diagram titled "data_modeling_ERD".
 
 - a SQL file of table schemata titled "data_engineering";
 
